@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT drugs_smash_4997.wsgi:application

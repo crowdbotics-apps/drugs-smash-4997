@@ -1,0 +1,3 @@
+rootProject.name = 'drugs_smash_4997'
+
+include ':app'
